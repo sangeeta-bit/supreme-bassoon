@@ -1,0 +1,4 @@
+browser chrome
+url http://cg-dte-student/login.do
+username admin
+password manager
